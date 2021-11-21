@@ -1,2 +1,0 @@
-Models/3frame150CNNRNN.h5 filter=lfs diff=lfs merge=lfs -text
-Models/*.h5 filter=lfs diff=lfs merge=lfs -text
